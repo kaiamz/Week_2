@@ -1,0 +1,20 @@
+.thumbnail{
+  height: 300px;
+  width: 400px;
+}
+
+.bold{
+  font-weight:bold;
+}
+
+#redpandas{
+  display: none;
+}
+
+#giantpandas{
+  display: none;
+}
+
+#polarbears{
+  display: none;
+}

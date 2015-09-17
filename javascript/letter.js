@@ -8,7 +8,7 @@ $(document).ready(function(){
 
     event.preventDefault();
 
-    $("#name form").hide();
+    $("#name form").fadeOut();
   });
 
 

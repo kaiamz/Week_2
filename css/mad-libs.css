@@ -1,4 +1,26 @@
 #story{
   display: none;
+}
+
+.person1{
+  text-transform: capitalize;
+}
+
+.person2{
+  text-transform: capitalize;
+}
+
+.animal{
+  text-transform: lowercase;
+}
+.noun{
+  text-transform: lowercase;
+}
+
+.verb{
+  text-transform: lowercase;
+}
+
+.exclamation{
   text-transform: uppercase;
 }
